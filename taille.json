@@ -1,0 +1,37 @@
+{
+    "Tailles":
+    [
+        {
+            "Nom": "M",
+            "Prix": "5",
+            "NbGalettes": 1,
+            "NbViandes" : 1
+        },
+        {
+            "Nom": "L",
+            "Prix": "6",
+            "NbGalettes": 1,
+            "NbViandes" : 2
+        },
+        {
+            "Nom": "XL",
+            "Prix": "9",
+            "NbGalettes": 2,
+            "NbViandes" : 3
+        },
+        {
+            "Nom": "XXL",
+            "Prix": "14",
+            "NbGalettes": 3,
+            "NbViandes" : 4
+        },
+        {
+            "Nom": "Giga",
+            "Prix": "22",
+            "NbGalettes": 5,
+            "NbViandes" : 5
+        }
+    ]
+}
+
+  

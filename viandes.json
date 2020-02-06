@@ -1,0 +1,40 @@
+{
+    "Viandes":
+    [
+        {
+            "Nom": "Tenders",
+            "Prix": 1,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Viande Hachée",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Cordon Bleu",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Nuggets",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Merguez",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Filet de Poulet",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Filet de Poulet Mariné",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "L'ingrédient du démon",
+            "PathImages": "to be defined"
+        }
+    ]
+}
+
+  

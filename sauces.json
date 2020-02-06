@@ -1,0 +1,57 @@
+{
+    "Sauces":
+    [
+        {
+            "Nom": "Algérienne",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Barbecue",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Burger",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Chili Thai",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Curry",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Harissa",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Ketchup",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Mayonnaise",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Samourai",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Texane Pepper",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "FUEGO",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Tabasco",
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Biggy",
+            "PathImages": "to be defined"
+        }
+    ]
+}

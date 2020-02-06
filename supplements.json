@@ -1,0 +1,75 @@
+{
+    "Suppléments":
+    [
+        {
+            "Nom": "Emmental",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Gouda",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Cheddar",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Raclette",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Boursin",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Chèvre",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Mozzarella",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Vache qui Rit",
+            "Prix": 0.5,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Poivronnade",
+            "Prix": 0.9,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Poulet",
+            "Prix": 0.9,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Boeuf façon Bacon Fumé",
+            "Prix": 0.9,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Jalapeño & Cheese Nuggets",
+            "Prix": 0.9,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Oignons Caramélisés",
+            "Prix": 0.9,
+            "PathImages": "to be defined"
+        },
+        {
+            "Nom": "Lardons de Volailles",
+            "Prix": 0.9,
+            "PathImages": "to be defined"
+        }
+    ]
+}
